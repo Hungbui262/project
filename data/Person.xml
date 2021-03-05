@@ -1,0 +1,16 @@
+<Customer>
+  <code>ss514c</code>
+  <firstName>Maria</firstName>
+  <lastName>Sarapova</lastName>
+  <address>
+    <street>6307 Redding Rd</street>
+    <city>Cypress</city>
+    <state>CA</state>
+    <zip>33580</zip>
+    <country>US</country>
+  </address>
+  <emailAddress>
+    <string>Msarapova135@gmail.com</string>
+    <string></string>
+  </emailAddress>
+</Customer>

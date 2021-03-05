@@ -1,0 +1,29 @@
+<stores>
+	<store code = "21sh55">
+	<manager code = "af25c1">
+	<street>945s 27th St</street>
+			<city>Lincoln</city>
+			<state>NE</state>
+			<zip>68520</zip>
+			<country>US</country>
+	</manager>
+	</store>
+	<store code = "cf250s">
+	<manager code = "af25c1">
+	<street>121 Belmont blv</street>
+			<city>Boston</city>
+			<state>MA</state>
+			<zip>44580</zip>
+			<country>US</country> 
+	</manager>
+	</store>
+	<store code = "765dss">
+	<manager code = "112sf3">
+	<street>1009 South Harris</street>
+			<city>Spring</city>
+			<state>TX</state>
+			<zip>77036</zip>
+			<country>US</country>
+	</manager>
+	</store>
+</stores>

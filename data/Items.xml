@@ -1,0 +1,22 @@
+<items>
+	<item code = "d51c56">
+	<type>PN</type>
+	<name>Dota2</name>
+	<basePrice>29.99</basePrice>
+	</item>	
+	<item code = "d51c56">
+	<type>PG</type>
+	<name>Mobile of legend</name>
+	<basePrice>2.99</basePrice>
+	</item>	
+	<item code = "d51c56">
+	<type>PU</type>
+	<name>Half-life</name>
+	<basePrice>8.45</basePrice>
+	</item>	
+	<item code = "5f73aa">
+	<type>SB</type>
+	<name>Mario</name>
+	<basePrice>50</basePrice>
+	</item>
+</items>

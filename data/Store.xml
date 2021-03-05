@@ -1,0 +1,26 @@
+<Stores>
+  <storeCode>765dss</storeCode>
+  <address>
+    <street>1009 South Harris</street>
+    <city>Spring</city>
+    <state>TX</state>
+    <zip>77036</zip>
+    <country>US</country>
+  </address>
+  <manager>
+    <managerCode>112sf3</managerCode>
+    <firstName>Lionel</firstName>
+    <lastName>Messi</lastName>
+    <address>
+      <street>1220 Plumpoint St</street>
+      <city>Houston</city>
+      <state>TX</state>
+      <zip>77049</zip>
+      <country>US</country>
+    </address>
+    <emailAddress>
+      <string>Messi10@yahoo.com</string>
+      <string></string>
+    </emailAddress>
+  </manager>
+</Stores>
